@@ -1,6 +1,6 @@
 package ua.jvlab.smlnk;
 
-/* returns the number of words in a line of text */
+/* Returns the number of words in a line of text */
 
 /* @version 1.0.0;
  * @date 2018-01-19;
